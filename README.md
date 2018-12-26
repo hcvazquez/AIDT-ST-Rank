@@ -3,7 +3,7 @@
 # ST-Rank
 The rank component of AIDT
 
-![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)
+
 
 ## Overview
 
