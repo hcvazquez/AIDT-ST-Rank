@@ -1,0 +1,31 @@
+# Compiled class file
+*.class
+
+# Eclipse files
+*.classpath
+*.project
+
+# Log file
+*.log
+
+# BlueJ files
+*.ctxt
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.war
+*.ear
+*.zip
+*.tar.gz
+
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+/bin/
+
+*notebooks/Models/RankBoost_ada_randomforest_models*
+
+__pycache__/
+bk*/
